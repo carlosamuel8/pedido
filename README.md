@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [PySide6](https://www.qt.io/qt-for-python)
 
 # Instalador para Windows
-- [Baixar executável](https://drive.google.com/drive/u/1/my-drive)
+- [Baixar executável](https://drive.google.com/file/d/1gVstl7oVwbHJThGy74VkssKdQz6_kinM/view?usp=sharing)
 
 
 ## Screenshots
