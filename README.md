@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Python](https://python.org/)
 - [PySide6](https://www.qt.io/qt-for-python)
 
-#Instalador para Windows
+# Instalador para Windows
 - [Baixar executável](https://drive.google.com/drive/u/1/my-drive)
 
 
