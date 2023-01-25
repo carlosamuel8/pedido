@@ -8,20 +8,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Python](https://python.org/)
 - [PySide6](https://www.qt.io/qt-for-python)
 
-O executável d
-- [Executável](https://www.mediafire.com/file/qywp04xirqk3vt8/Instalador_Pedido.exe/file)
-
+#Instalador para Windows
+- [Baixar executável](https://drive.google.com/drive/u/1/my-drive)
 
 
 ## Screenshots
 
 Tela de escolha
 <h1 align="center">
-    <img alt="" title="#delicinha" src="https://github.com/carlosamuel8/pedido/blob/main/github/tela1.png"/>
+    <img alt="" title="#tela1" src="https://github.com/carlosamuel8/pedido/blob/main/github/tela1.png"/>
 </h1>
 
-Melhor decisão
+Tela de sim
 <h1 align="center">
-    <img alt="" title="#delicinha" src="https://github.com/carlosamuel8/pedido/blob/main/github/tela2.png"/>
+    <img alt="" title="#tela2" src="https://github.com/carlosamuel8/pedido/blob/main/github/tela2.png"/>
 </h1>
 
